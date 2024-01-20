@@ -1,6 +1,6 @@
 /*************************************************
  *  Hugo Blox Builder
- *  https://github.com/HugoBlox/hugo-blox-builder
+ *  https://github.com/cdonau/hugo-blox-builder
  *
  *  Algolia based search algorithm.
  **************************************************/

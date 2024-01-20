@@ -1,6 +1,6 @@
 /*************************************************
  *  Hugo Blox Builder
- *  https://github.com/HugoBlox/hugo-blox-builder
+ *  https://github.com/cdonau/hugo-blox-builder
  *
  *  Hugo Blox Builder Theming System
  *  Supported Modes: {0: Light, 1: Dark, 2: Auto}

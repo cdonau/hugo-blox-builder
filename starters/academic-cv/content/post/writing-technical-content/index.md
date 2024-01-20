@@ -75,7 +75,7 @@ A more advanced mindmap with formatting, code blocks, and math:
   - Links
     - [Wowchemy Docs](https://docs.hugoblox.com/)
     - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+    - [GitHub](https://github.com/cdonau/hugo-blox-builder)
   - Features
     - Markdown formatting
     - **inline** ~~text~~ *styles*
@@ -100,7 +100,7 @@ renders as
   - Links
     - [Wowchemy Docs](https://docs.hugoblox.com/)
     - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+    - [GitHub](https://github.com/cdonau/hugo-blox-builder)
   - Features
     - Markdown formatting
     - **inline** ~~text~~ *styles*
